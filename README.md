@@ -4,7 +4,7 @@ Interactive Particle Demonstration
 This repository contains an Interactive Particle Demonstration developed as part of the Game Development 1 course at the University of California, Santa Cruz. The demonstration showcases many moving objects on the screen that are generated interactively and fade over time.
 
 Acknowledgments
-This project was developed as an assignment for the Game Development 1 course (GAME 235) at the University of California, Santa Cruz. The code was developed with the help of Mohamed Samy and Mohamed-Ali-77. Additionally, we used ChatGPT to assist in structuring and refining parts of the project.
+This project was developed as an assignment for the Game Development 1 course (GAME 235) at the University of California, Santa Cruz. The code was developed with the help of Mohamed Samy. Additionally, we used ChatGPT to assist in structuring and refining parts of the project.
 
 Overview
 The Interactive Particle Demonstration is an object-oriented program that displays particles that move and fade over time. The particles are generated based on user input (mouse clicks), and each particle has a limited lifespan.
